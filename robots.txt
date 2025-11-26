@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bryan210404.github.io/Tarot-Elizabeth/sitemap.xml
